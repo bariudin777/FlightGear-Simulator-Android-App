@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise4</string>
+    <string name="edit_msg">Enter a message</string>
+    <string name="show_ip_msg">IP:</string>
+    <string name="show_port_msg">Port:</string>
+    <string name="button_connect">Connect</string>
+</resources>
