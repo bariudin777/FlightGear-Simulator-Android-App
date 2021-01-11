@@ -13,7 +13,7 @@ This will open two communication sockets - 'in' where you send commands to the s
 
 ### For connection:
 
-Insert port number in ip
+Insert ip and port number 
 
 
 ![main window](https://github.com/bariudin777/FlightGear-Simulator-Android-App/blob/master/3.png)
